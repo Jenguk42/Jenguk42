@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Data Science in University of Melbourne.
+- 🌱 I’m currently learning Computer Science in University of Melbourne.
 - ✍ I’m working on adding more coding experience wih personal projects.
  
 - 📫 How to reach me: Email doyeonguk42@gmail.com
