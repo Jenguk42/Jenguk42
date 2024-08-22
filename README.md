@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Computer Science in University of Melbourne.
+- 🔭 I’m currently teaching networking in Danford College, based in Melbourne CBD.
 - ✍ I’m working on adding more coding experience with personal projects.
  
 - 📫 How to reach me: Email doyeonguk42@gmail.com
